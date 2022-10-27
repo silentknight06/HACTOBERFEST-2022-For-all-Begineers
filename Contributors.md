@@ -19,3 +19,6 @@
 # Songbid Dey
 # https://github.com/SongbidDey
 # Competitive Programming
+# Subhraneel Hait
+# https://github.com/subhraneelhait
+# Cloud computing
